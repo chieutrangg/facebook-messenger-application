@@ -68,10 +68,10 @@ const Chats = () => {
         <div className = "chats-page">
             <div className = "nav-bar">
                 <div className="logo-tab">
-                    Unichat
+                    Unisenger
                 </div>
                 <div onClick={handleLogeout} className="logout-tab">
-                    Logout
+                    Log Out
                 </div>
             </div>
             <ChatEngine 
