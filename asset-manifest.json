@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/real-time-chat-messaging-app/static/css/main.37448acd.chunk.css",
+    "main.js": "/real-time-chat-messaging-app/static/js/main.3f730ba3.chunk.js",
+    "main.js.map": "/real-time-chat-messaging-app/static/js/main.3f730ba3.chunk.js.map",
+    "runtime-main.js": "/real-time-chat-messaging-app/static/js/runtime-main.c7aa998a.js",
+    "runtime-main.js.map": "/real-time-chat-messaging-app/static/js/runtime-main.c7aa998a.js.map",
+    "static/js/2.27607621.chunk.js": "/real-time-chat-messaging-app/static/js/2.27607621.chunk.js",
+    "static/js/2.27607621.chunk.js.map": "/real-time-chat-messaging-app/static/js/2.27607621.chunk.js.map",
+    "index.html": "/real-time-chat-messaging-app/index.html",
+    "precache-manifest.8288537d2859be6f7ff71bb3e7a33426.js": "/real-time-chat-messaging-app/precache-manifest.8288537d2859be6f7ff71bb3e7a33426.js",
+    "service-worker.js": "/real-time-chat-messaging-app/service-worker.js",
+    "static/css/main.37448acd.chunk.css.map": "/real-time-chat-messaging-app/static/css/main.37448acd.chunk.css.map",
+    "static/js/2.27607621.chunk.js.LICENSE.txt": "/real-time-chat-messaging-app/static/js/2.27607621.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7aa998a.js",
+    "static/js/2.27607621.chunk.js",
+    "static/css/main.37448acd.chunk.css",
+    "static/js/main.3f730ba3.chunk.js"
+  ]
+}
