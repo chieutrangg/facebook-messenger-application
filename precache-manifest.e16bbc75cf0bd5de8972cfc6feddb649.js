@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b80d0255e8ca8a45e54315e18b5003c0",
+    "revision": "608cda42a03b7e82f7325b9226b18c45",
     "url": "/facebook-messenger-application/index.html"
   },
   {
-    "revision": "3300aa96f3c5d4b675b1",
+    "revision": "9691a1a81a8ccd2d9141",
     "url": "/facebook-messenger-application/static/css/main.37448acd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/facebook-messenger-application/static/js/2.27607621.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3300aa96f3c5d4b675b1",
-    "url": "/facebook-messenger-application/static/js/main.3f730ba3.chunk.js"
+    "revision": "9691a1a81a8ccd2d9141",
+    "url": "/facebook-messenger-application/static/js/main.42812a44.chunk.js"
   },
   {
     "revision": "698a457d5dd8bcf45d37",

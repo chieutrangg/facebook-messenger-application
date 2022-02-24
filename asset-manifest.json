@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/facebook-messenger-application/static/css/main.37448acd.chunk.css",
-    "main.js": "/facebook-messenger-application/static/js/main.3f730ba3.chunk.js",
-    "main.js.map": "/facebook-messenger-application/static/js/main.3f730ba3.chunk.js.map",
+    "main.js": "/facebook-messenger-application/static/js/main.42812a44.chunk.js",
+    "main.js.map": "/facebook-messenger-application/static/js/main.42812a44.chunk.js.map",
     "runtime-main.js": "/facebook-messenger-application/static/js/runtime-main.0c4a6ba0.js",
     "runtime-main.js.map": "/facebook-messenger-application/static/js/runtime-main.0c4a6ba0.js.map",
     "static/js/2.27607621.chunk.js": "/facebook-messenger-application/static/js/2.27607621.chunk.js",
     "static/js/2.27607621.chunk.js.map": "/facebook-messenger-application/static/js/2.27607621.chunk.js.map",
     "index.html": "/facebook-messenger-application/index.html",
-    "precache-manifest.82194af7f16de969352fbe8b73506f1a.js": "/facebook-messenger-application/precache-manifest.82194af7f16de969352fbe8b73506f1a.js",
+    "precache-manifest.e16bbc75cf0bd5de8972cfc6feddb649.js": "/facebook-messenger-application/precache-manifest.e16bbc75cf0bd5de8972cfc6feddb649.js",
     "service-worker.js": "/facebook-messenger-application/service-worker.js",
     "static/css/main.37448acd.chunk.css.map": "/facebook-messenger-application/static/css/main.37448acd.chunk.css.map",
     "static/js/2.27607621.chunk.js.LICENSE.txt": "/facebook-messenger-application/static/js/2.27607621.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0c4a6ba0.js",
     "static/js/2.27607621.chunk.js",
     "static/css/main.37448acd.chunk.css",
-    "static/js/main.3f730ba3.chunk.js"
+    "static/js/main.42812a44.chunk.js"
   ]
 }
